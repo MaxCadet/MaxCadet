@@ -7,7 +7,7 @@ I'm a **Cloud & DevOps Engineer** and student at **Miami Dade College** (Network
 
 **Future goals:** Architecting resilient, secure cloud ecosystems and growing into a senior Solutions Architect role.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxcadet98)
 
 ---
 
