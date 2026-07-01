@@ -28,7 +28,7 @@ I'm a **Cloud & DevOps Engineer** and student at **Miami Dade College** (Network
 
 ## 🚀 Featured Projects
 
-### 🔐 [AWS Transit Gateway — Multi-VPC Segmented Architecture](https://github.com/MaxCadet/YOUR_REPO](https://github.com/MaxCadet/Secure-Multi-VPC-Network-Architecture-with-AWS-Transit-Gateway/blob/main/Secure%20Multi-VPC%20Network%20Architecture%20with%20AWS%20Transit%20Gateway%20README.md)
+### 🔐 [AWS Transit Gateway — Multi-VPC Segmented Architecture][(https://github.com/MaxCadet/YOUR_REPO](https://github.com/MaxCadet/Secure-Multi-VPC-Network-Architecture-with-AWS-Transit-Gateway/blob/main/Secure%20Multi-VPC%20Network%20Architecture%20with%20AWS%20Transit%20Gateway%20README.md)]
 > Enterprise-grade network segmentation across multiple VPCs using AWS Transit Gateway with full route table isolation and security testing.
 
 - **Tech Stack:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white) ![SSM](https://img.shields.io/badge/SSM-FF9900?style=flat&logo=amazonaws&logoColor=white)
